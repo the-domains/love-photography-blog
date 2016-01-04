@@ -1,7 +1,7 @@
 name: love photography blog
 favicon: null
-layout_spectrum: 0.1931345530319959
-typography_spectrum: 0.1804853561334312
+layout_spectrum: 0
+typography_spectrum: 0.24444
 title: "The blog for the Gold Coast's #1 family portraiture photography business"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.9823806234635413
-  lightness: 0.008772647939622402
+  brandStrength: 0.5
+  lightness: 1
   saturation: 0.31881659058853984
-  rhythmicContrast: 0.4692020392976701
+  rhythmicContrast: 0.75
 purpose: []
