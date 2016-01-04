@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[love photography blog]]></title>
+        <description><![CDATA[love photography blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 05:19:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[our new blog]]></title>
+            <description><![CDATA[<article><h1>our new blog</h1><p>our new Love Photography blog </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/502c5e88a3d73fb28155197915b7ca5f4299fe0f.png"></article>]]></description>
+            <link>undefinedour-new-blog/index.html</link>
+            <guid isPermaLink="false">ab931dfe-9a67-434a-8d86-04d4fc47466a</guid>
+            <pubDate>Mon, 04 Jan 2016 05:18:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
